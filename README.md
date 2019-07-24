@@ -1,0 +1,2 @@
+# oddoCRM
+oddoCRM Automation Framework
